@@ -33,3 +33,28 @@ Instructions:
     4. To evaluate the authenticity:
         run python compute_authenticity.py to evaluate 'result.jpg' in ../img/
                   
+
+Dataset:
+###
+![image](https://github.com/noahzn/FoHIS/blob/master/img/dataset.png)
+
+| Source Image  | Maximum Depth | Effect | Homogeneous | Particular Elevation|
+|:-------------:|:-------------:|:------:|:-----------:|:-------------------:|
+| (a)           |     150 m     | Haze   |      Yes    |         No          |
+| (b)           |     400 m     | Haze   |      Yes    |         No          |
+| (c)           |     800 m     | Haze   |      Yes    |         No          |
+| (d)           |     800 m     | Fog    |      Yes    |         No          |
+| (e)           |     800 m     | Fog    |      No     |         Yes         |
+| (f)           |     30 m      |Fog+Haze|      No     |         No          |
+| (g)           |     600 m     | Haze   |      Yes    |         No          |
+| (h)           |     400 m     | Haze   |      Yes    |         No          |
+| (i)           |     200 m     | Haze   |      Yes    |         No          |
+| (j)           |     100 m     | Haze   |      Yes    |         No          |
+| (k)           |     100 m     | Haze   |      Yes    |         No          |
+| (l)           |     800 m     |Fog+Haze|      No     |         Yes         |
+| (m)           |     300 m     | Haze   |      Yes    |         No          |
+| (n)           |     60 m      | Haze   |      Yes    |         No          |
+| (o)           |     300 m     | Haze   |      Yes    |         No          |
+| (p)           |     1000 m    | Haze   |      Yes    |         No          |
+| (q)           |     400 m     | Haze   |      Yes    |         No          |
+| (r)           |     300 m     | Haze   |      Yes    |         No          |

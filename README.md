@@ -43,8 +43,8 @@ Dataset:
 | (a)           |     150 m     | Haze   |      Yes    |         No          |
 | (b)           |     400 m     | Haze   |      Yes    |         No          |
 | (c)           |     800 m     | Haze   |      Yes    |         No          |
-| (d)           |     800 m     | Fog    |      Yes    |         No          |
-| (e)           |     800 m     | Fog    |      No     |         Yes         |
+| (d)           |     30 m      | Fog    |      Yes    |         No          |
+| (e)           |     150 m     | Fog    |      No     |         Yes         |
 | (f)           |     30 m      |Fog+Haze|      No     |         No          |
 | (g)           |     600 m     | Haze   |      Yes    |         No          |
 | (h)           |     400 m     | Haze   |      Yes    |         No          |

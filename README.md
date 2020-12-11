@@ -5,7 +5,16 @@ License:
 ###
     This code is made publicly for research use only. 
     It may be modified and redistributed under the terms of the GNU General Public License.
-    Please cite the paper and source code if you are using it in your work.
+    Please cite the paper and source code if you use it in your work.
+    
+    @inproceedings{zhang2017towards,
+    title={Towards simulating foggy and hazy images and evaluating their authenticity},
+    author={Zhang, Ning and Zhang, Lin and Cheng, Zaixi},
+    booktitle={International Conference on Neural Information Processing},
+    pages={405--415},
+    year={2017},
+    organization={Springer}
+    }
     
 Instructions:  
 ###
